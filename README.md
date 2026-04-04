@@ -50,13 +50,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AhmadAlhajAsaad&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?username=AhmadAlhajAsaad&theme=shadow_green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlhajAsaad&theme=shadow_green&hide_border=false&layout=compact)
-
----
-
 # 🐍 Snake Animation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadAlhajAsaad/AhmadAlhajAsaad/output/github-snake-dark.svg" />
