@@ -48,6 +48,21 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AhmadAlhajAsaad&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlhajAsaad&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAlhajAsaad&show_icons=true&theme=shadow_green)
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAlhajAsaad&show_icons=true&theme=shadow_green)
+
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlhajAsaad&layout=compact&theme=shadow_green)
+
+---
+
+![GitHub followers](https://img.shields.io/github/followers/AhmadAlhajAsaad)
+![GitHub stars](https://img.shields.io/github/stars/AhmadAlhajAsaad?style=social)
+
+---
+![](https://github-readme-stats.vercel.app/api?username=AhmadAlhajAsaad&show_icons=true&theme=shadow_green)
 ---
 
 # 🐍 Snake Animation
@@ -70,4 +85,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmadAlhajAsaad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
