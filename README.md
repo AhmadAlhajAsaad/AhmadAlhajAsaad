@@ -8,9 +8,9 @@
 
   <!-- Profile Badges -->
   <br/>
-  ![Profile Views](https://komarev.com/ghpvc/?username=AhmadAlhajAsaad&color=38B2AC&style=for-the-badge&label=PROFILE+VIEWS)
-  ![GitHub followers](https://img.shields.io/github/followers/AhmadAlhajAsaad?style=for-the-badge&color=38B2AC&label=FOLLOWERS)
-  ![GitHub stars](https://img.shields.io/github/stars/AhmadAlhajAsaad?style=for-the-badge&color=38B2AC&label=STARS)
+  <img src="https://komarev.com/ghpvc/?username=AhmadAlhajAsaad&color=38B2AC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AhmadAlhajAsaad?style=for-the-badge&color=38B2AC&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/AhmadAlhajAsaad?style=for-the-badge&color=38B2AC&label=STARS" alt="GitHub stars" />
 
 </div>
 
