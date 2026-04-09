@@ -74,11 +74,11 @@ languages: Arabic (native), Dutch, English
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadAlhajAsaad&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadAlhajAsaad&amp;theme=shadow_green&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AhmadAlhajAsaad&theme=shadow_green&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AhmadAlhajAsaad&amp;theme=shadow_green&amp;hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlhajAsaad&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlhajAsaad&amp;theme=shadow_green&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="Top Languages" />
 
 </div>
 
