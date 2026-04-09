@@ -88,11 +88,16 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadAlhajAsaad&amp;theme=shadow_green&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/AhmadAlhajAsaad">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmadAlhajAsaad&amp;theme=shadow_green&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/AhmadAlhajAsaad">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlhajAsaad&amp;theme=shadow_green&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="Top Languages" />
+  </a>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AhmadAlhajAsaad&amp;theme=shadow_green&amp;hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlhajAsaad&amp;theme=shadow_green&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="Top Languages" />
+  <a href="https://github.com/AhmadAlhajAsaad">
+    <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=AhmadAlhajAsaad&amp;theme=shadow_green&amp;hide_border=true" alt="GitHub Streak" />
+  </a>
 
 </div>
 
