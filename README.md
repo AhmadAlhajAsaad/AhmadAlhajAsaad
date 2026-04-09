@@ -18,14 +18,28 @@
 
 ## 💫 About Me
 
-```yaml
-name: Ahmad Alhaj Asaad
-location: The Netherlands (originally from Aleppo, Syria)
-education: ICT @ Hogeschool Rotterdam (graduating April 2026)
-background: Career switch from Law to Software Development
-status: Looking for a junior developer role or traineeship (May 2026)
-languages: Arabic (native), Dutch, English
-```
+<table>
+  <tr>
+    <td>🎓 <b>Education</b></td>
+    <td>ICT @ Hogeschool Rotterdam — graduating April 2026</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Status</b></td>
+    <td>Looking for a junior developer role or traineeship (May 2026)</td>
+  </tr>
+  <tr>
+    <td>🔧 <b>Background</b></td>
+    <td>Career switch from Law to Software Development</td>
+  </tr>
+  <tr>
+    <td>🌍 <b>Location</b></td>
+    <td>The Netherlands (originally from Aleppo, Syria)</td>
+  </tr>
+  <tr>
+    <td>🗣️ <b>Languages</b></td>
+    <td>Arabic (native) · Dutch · English</td>
+  </tr>
+</table>
 
 <div align="center">
 
