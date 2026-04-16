@@ -21,15 +21,11 @@
 <table>
   <tr>
     <td>🎓 <b>Education</b></td>
-    <td>ICT @ Hogeschool Rotterdam — graduating April 2026</td>
+    <td>ICT @ Hogeschool Rotterdam, graduating April 2026</td>
   </tr>
   <tr>
     <td>💼 <b>Status</b></td>
-    <td>Looking for a junior developer role or traineeship (May 2026)</td>
-  </tr>
-  <tr>
-    <td>🔧 <b>Background</b></td>
-    <td>Career switch from Law to Software Development</td>
+    <td>Looking for a junior developer role (May 2026)</td>
   </tr>
   <tr>
     <td>🌍 <b>Location</b></td>
