@@ -1,10 +1,8 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"  # Run once daily at midnight UTC
   workflow_dispatch:
 
 permissions:
@@ -13,6 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10  # Add timeout to prevent hanging
     steps:
       - uses: actions/checkout@v4
 
