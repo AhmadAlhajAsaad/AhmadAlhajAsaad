@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>💼 <b>Status</b></td>
-    <td>Looking for a junior developer role (May 2026)</td>
+    <td>Looking for a junior developer role</td>
   </tr>
   <tr>
     <td>🌍 <b>Location</b></td>
