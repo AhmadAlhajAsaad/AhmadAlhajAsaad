@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=200&section=header&text=Ahmad%20Alhaj%20Asaad&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Available%20from%20May%202026&descSize=16&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=200&section=header&text=Ahmad%20Alhaj%20Asaad&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Available%202026&descSize=16&descAlignY=55" width="100%" />
 
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=C%23+%7C+Rust+%7C+React+%7C+TypeScript;Full-Stack+Developer;Building+Scalable+Applications;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
